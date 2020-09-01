@@ -1,8 +1,6 @@
 Code Book
 ================
 
-`{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE)`
-
 ### Purpose of Code Book:
 
 This is a code book describing all the variables present in the
